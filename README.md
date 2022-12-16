@@ -26,7 +26,6 @@ These are preliminary codes that were translated from the authors' original Matl
 
 Performance measures: Only Tucker's congruence! In the latest version of LatentGOLD, the rotation criteria can be specified using the command 
 ```
-rotation
 <simple structure criterion> <agreement criterion><w> sets = 1;
 ```
 Here in this example, we used 
